@@ -1,0 +1,71 @@
+#landingPage{
+	background-image: url('images/landingImg.jpg');
+	border:solid 1px black;
+	width: 100vw;
+	height: 40vw;
+	background-repeat: no-repeat ;
+	text-align: center;
+	font-family: 'Cinzel Decorative';
+	font-size: 50px;
+  }
+
+
+
+ 
+#smalltext{
+	text-decoration: overline;
+}
+#textsecond{
+	background-image: url('images/inside.jpg');
+	text-align: left;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	width: 70vw;
+	height: 20vw;
+	background-repeat: no-repeat ;
+	margin margin-top: 205px;
+	font-family: 'Cinzel Decorative';
+	font-size: 30px;
+	text-decoration: overline;
+margin-left:500px;
+
+}
+
+
+
+
+
+.description{
+	text-align:center;
+	 font-family: 'Josefin Slab';font-size: 14px;
+	
+}
+
+.container{
+	display: flex;
+	background-color: #dbe6f0;
+}
+.title{
+	text-align: center;
+	font-family: 'Cairo';font-size: 22px ;
+}
+.img{
+	max-height: 500px;
+	max-width: 500px;
+}
+.readme img{
+	max-height: 25px;
+	max-width: 25px;
+	text-align: center;
+	
+
+
+}
+.readme{
+	margin-left: 230px ;
+}
+body{
+	background-color: #dbe6f0;
+
+}
